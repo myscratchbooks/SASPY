@@ -6,3 +6,5 @@ Regression Analysis on Bodyfat dataset using SAS code
 Cluster Analysis on Cereal dataset using SAS code 
 # SAS_Categorcial_Analysis - Metabolic_Syndrome
 Categorcial Analysis with Logistic Regression Model on Metabolic Syndrome dataset using SAS code
+# SAS_Time_Series_Analysis - S&P500
+Time Series Analysis and Modeling on S&P500 closing index from Jan 01, 2000 to Dec 07, 2023
